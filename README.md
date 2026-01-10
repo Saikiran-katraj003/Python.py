@@ -1,4 +1,4 @@
-**Snake, Gun, Water – Python Game**
+**Snake, Gun, Water – Game** 
 
 **Overview**
 This is a simple command-line game written in Python where the user plays Snake, Gun, Water against the computer.
@@ -22,4 +22,19 @@ The computer randomly 1- snake, 0- Gun, -1- water, the user have to choose as st
 The program compares the computer’s choice and the user’s choice using if-elif-else conditions.
 The result is printed as: You Win, You Lose, It's a Draw.
 And also if anything wrong in if-else ladder its prints "something went wrong "
+
+**How To Run the programe**
+
+Make sure python is installed in your pc and run the programe, choose your choice. User input must be exactly snake or water or gun then computer randomly selects.
+
+
+
+
+
+
+
+
+
+
+
 
